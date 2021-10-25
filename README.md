@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @joaoidder
+- 👋 Hi, I’m @joaoider
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Python, SQL and Machine Learning.
 - 💞️ I’m looking to collaborate on ...
