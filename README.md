@@ -1,5 +1,5 @@
 Hello everyone!
-I'm João, data scientist and physicist. I'm currently a Chief Scientific Officer (CSO) at Diamond Log, working with Advanced Analytics, and PhD candidate, working with semiconductor physics and software and hardware development.
+I'm João, data scientist and physicist. I'm currently a Data Scientist at Diamond Log, working with Advanced Analytics, and PhD candidate, working with semiconductor physics and software and hardware development.
 
 In my work, and to contribute to my research in semiconductor physics, I develop solutions based on Artificial Intelligence using tools like Python, R, SQL, Power BI and Machine Learning. Other things that help my work are my hobbies: reading, sports and saxophone.
 
